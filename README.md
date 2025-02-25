@@ -1,1 +1,1 @@
-# Design-simulation-and-fabrication-of-pre-amplifier-and-filter-circuit-3-channels
+# Design-Simulation-And-Fabrication-Of-Pre-amplifier-And-Filter-Circuit-3-Channels
